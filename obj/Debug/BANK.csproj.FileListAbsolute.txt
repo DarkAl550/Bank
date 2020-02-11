@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\DEV\APPS\BANK\bin\Debug\BANK.accdb
+C:\Users\Admin\Desktop\DEV\APPS\BANK\bin\Debug\BANK.exe.config
+C:\Users\Admin\Desktop\DEV\APPS\BANK\bin\Debug\BANK.exe
+C:\Users\Admin\Desktop\DEV\APPS\BANK\bin\Debug\BANK.pdb
+C:\Users\Admin\Desktop\DEV\APPS\BANK\obj\Debug\BANK.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DEV\APPS\BANK\obj\Debug\BANK.Form1.resources
+C:\Users\Admin\Desktop\DEV\APPS\BANK\obj\Debug\BANK.Properties.Resources.resources
+C:\Users\Admin\Desktop\DEV\APPS\BANK\obj\Debug\BANK.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DEV\APPS\BANK\obj\Debug\BANK.exe
+C:\Users\Admin\Desktop\DEV\APPS\BANK\obj\Debug\BANK.pdb
+C:\Users\Admin\Desktop\DEV\APPS\BANK\obj\Debug\BANK.Main.resources
+C:\Users\Admin\Desktop\DEV\APPS\BANK\obj\Debug\BANK.REG.resources
+C:\Users\Admin\Desktop\DEV\APPS\BANK\obj\Debug\BANK.SuccessREG.resources
